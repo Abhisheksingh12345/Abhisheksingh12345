@@ -1,4 +1,5 @@
-### Hi there 👋
+
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 👋 Hi, I’m @Abhisheksingh12345
 - 👀 I’m interested in building major projects 
@@ -6,6 +7,23 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
  -  📥 at atching123@ or on captaine0luffy@
+
+# 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Window-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Ubantu-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntellijIDEA-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-vsCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Scala-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DataBase-Apache-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DataBase-MySql-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DataBase-Apache-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Red-Hat-OpenShift-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+
 
 
 
