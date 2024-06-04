@@ -23,6 +23,7 @@
 ![](https://img.shields.io/badge/lib-Pandas-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/lib-SQLAlchemy-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/lib-Flask-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/lib-PySpark-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DataBase-Relative-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DataBase-NoSQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DataBase-InMemory-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
@@ -34,9 +35,7 @@
 ![](https://img.shields.io/badge/ETL-Talend-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/ETL-Informatica-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/ETL-Snowflake-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Red-Hat-OpenShift-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Red-Hat-OpenShift-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Red-Hat-OpenShift-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
 
 
 
